@@ -2,7 +2,7 @@
 
 #### コンテナ -&gt; ホスト  へコピー
 
-## Monaca クラウド IDE
+## Monaca クラウド IDE テスト
 
 ```bash
 docker cp <コンテナID>:/etc/my.cnf my.cnf
